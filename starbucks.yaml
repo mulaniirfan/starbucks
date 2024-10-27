@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: starbucks
-        image: mulaniirfanftc/netflix:latest
+        image: mulaniirfanftc/starbucks:latest
         ports:
         - containerPort: 3000
 ---
